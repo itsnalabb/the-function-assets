@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170.08 56.69">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Geist-Regular, Geist;
+        font-size: 8px;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #dfddd1;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #dfddd1;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(2.48 24.46)"><tspan x="0" y="0">BITTERNESS</tspan></text>
+  <text class="cls-1" transform="translate(2.48 11.77)"><tspan x="0" y="0">AROMA</tspan></text>
+  <text class="cls-1" transform="translate(2.48 49.84)"><tspan x="0" y="0">ASTRINGENCY</tspan></text>
+  <text class="cls-1" transform="translate(2.48 37.15)"><tspan x="0" y="0">UMAMI</tspan></text>
+  <g>
+    <circle class="cls-2" cx="165.8" cy="9.31" r="1.8"/>
+    <g>
+      <line class="cls-3" x1="66.22" y1="7.51" x2="66.22" y2="11.11"/>
+      <line class="cls-3" x1="116.01" y1="7.51" x2="116.01" y2="11.11"/>
+      <line class="cls-3" x1="165.8" y1="7.51" x2="165.8" y2="11.11"/>
+      <line class="cls-3" x1="66.22" y1="9.31" x2="165.8" y2="9.31"/>
+    </g>
+    <circle class="cls-2" cx="66.22" cy="47.38" r="1.8"/>
+    <g>
+      <line class="cls-3" x1="66.22" y1="45.58" x2="66.22" y2="49.18"/>
+      <line class="cls-3" x1="116.01" y1="45.58" x2="116.01" y2="49.18"/>
+      <line class="cls-3" x1="165.8" y1="45.58" x2="165.8" y2="49.18"/>
+      <line class="cls-3" x1="66.22" y1="47.38" x2="165.8" y2="47.38"/>
+    </g>
+    <circle class="cls-2" cx="141.63" cy="34.69" r="1.8"/>
+    <g>
+      <line class="cls-3" x1="66.22" y1="32.89" x2="66.22" y2="36.49"/>
+      <line class="cls-3" x1="116.01" y1="32.89" x2="116.01" y2="36.49"/>
+      <line class="cls-3" x1="165.8" y1="32.89" x2="165.8" y2="36.49"/>
+      <line class="cls-3" x1="66.22" y1="34.69" x2="165.8" y2="34.69"/>
+    </g>
+    <circle class="cls-2" cx="90.66" cy="22" r="1.8"/>
+    <g>
+      <line class="cls-3" x1="165.8" y1="20.2" x2="165.8" y2="23.8"/>
+      <line class="cls-3" x1="116.01" y1="20.2" x2="116.01" y2="23.8"/>
+      <line class="cls-3" x1="66.22" y1="20.2" x2="66.22" y2="23.8"/>
+      <line class="cls-3" x1="165.8" y1="22" x2="66.22" y2="22"/>
+    </g>
+  </g>
+</svg>
