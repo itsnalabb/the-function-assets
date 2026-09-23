@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170.08 56.69">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #dfddd1;
+      }
+
+      .cls-2 {
+        font-family: NassimArabicPro-Rg, 'Nassim Arabic Pro';
+        font-size: 9px;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #dfddd1;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <g>
+    <circle class="cls-1" cx="18.66" cy="8.73" r="1.8"/>
+    <g>
+      <line class="cls-3" x1="118.24" y1="6.93" x2="118.24" y2="10.53"/>
+      <line class="cls-3" x1="68.45" y1="6.93" x2="68.45" y2="10.53"/>
+      <line class="cls-3" x1="18.66" y1="6.93" x2="18.66" y2="10.53"/>
+      <line class="cls-3" x1="118.24" y1="8.73" x2="18.66" y2="8.73"/>
+    </g>
+    <circle class="cls-1" cx="118.24" cy="46.79" r="1.8"/>
+    <g>
+      <line class="cls-3" x1="118.24" y1="44.99" x2="118.24" y2="48.59"/>
+      <line class="cls-3" x1="68.45" y1="44.99" x2="68.45" y2="48.59"/>
+      <line class="cls-3" x1="18.66" y1="44.99" x2="18.66" y2="48.59"/>
+      <line class="cls-3" x1="118.24" y1="46.79" x2="18.66" y2="46.79"/>
+    </g>
+    <circle class="cls-1" cx="42.83" cy="34.1" r="1.8"/>
+    <g>
+      <line class="cls-3" x1="118.24" y1="32.3" x2="118.24" y2="35.9"/>
+      <line class="cls-3" x1="68.45" y1="32.3" x2="68.45" y2="35.9"/>
+      <line class="cls-3" x1="18.66" y1="32.3" x2="18.66" y2="35.9"/>
+      <line class="cls-3" x1="118.24" y1="34.1" x2="18.66" y2="34.1"/>
+    </g>
+    <circle class="cls-1" cx="93.8" cy="21.41" r="1.8"/>
+    <g>
+      <line class="cls-3" x1="18.66" y1="19.61" x2="18.66" y2="23.21"/>
+      <line class="cls-3" x1="68.45" y1="19.61" x2="68.45" y2="23.21"/>
+      <line class="cls-3" x1="118.24" y1="19.61" x2="118.24" y2="23.21"/>
+      <line class="cls-3" x1="18.66" y1="21.41" x2="118.24" y2="21.41"/>
+    </g>
+  </g>
+  <g>
+    <text class="cls-2" transform="translate(130.95 23.17)"><tspan x="0" y="0">المـــــرارة</tspan></text>
+    <text class="cls-2" transform="translate(128.37 35.82)"><tspan x="0" y="0">الأومـــامي</tspan></text>
+    <text class="cls-2" transform="translate(135.53 48.46)"><tspan x="0" y="0">الــحدّة</tspan></text>
+    <text class="cls-2" transform="translate(132.98 10.52)"><tspan x="0" y="0">الــرائحة</tspan></text>
+  </g>
+</svg>
